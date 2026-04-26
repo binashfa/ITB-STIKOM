@@ -84,7 +84,7 @@ Semua data dapat dikelola dalam satu dashboard.
 
 ---
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1. Clone repository
 
